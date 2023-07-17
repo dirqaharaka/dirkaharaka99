@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @dirqaharaka
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning python
+- 👋 Hi, I’m Dirqa Haraka Putra Nursadih
+- 👀 I’m interested in coding, programming, and Cyber security
+- 🌱 I’m currently learning Cyber Security
 - 💞️ I’m looking to collaborate on a project
 - 📫 How to reach me ...instagram: @dirqaharaka
 
