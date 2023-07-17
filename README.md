@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding, programming, and Cyber security
 - 🌱 I’m currently learning Cyber Security
 - 💞️ I’m looking to collaborate on a project
-- 📫 How to reach me ...instagram: @dirqaharaka
+- 📫 How to reach me ...instagram: @dr_x1q
 
 <!---
 dirkaharaka99/dirkaharaka99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
